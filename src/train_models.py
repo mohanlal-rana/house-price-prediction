@@ -1,8 +1,7 @@
 """
 train_models.py
-Trains Linear Regression, Decision Tree, and Random Forest models.
-Saves best model to models/ directory.
-Prints comparison table.
+Trains multiple regression models, compares their performance,
+and saves the best model to the models/ directory.
 """
 
 import sys
